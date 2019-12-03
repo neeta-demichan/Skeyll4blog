@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'TOKENID' #TOKENIDの部分を自分のIDに変える
+TOKEN = 'tkbdV2IoT9DFjgnzvx0paznSmbk7fkxm' #TOKENIDの部分を自分のIDに変える
 
 client = discord.Client()
 
